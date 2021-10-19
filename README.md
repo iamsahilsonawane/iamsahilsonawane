@@ -41,7 +41,7 @@
 
 ---
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=iamsahilsonawane&show_icons=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=iamsahilsonawane&show_icons=true&theme=onedark)
 
 [course]: http://vsCodeHero.com
 [twitter]: https://twitter.com/_sahilsonawane
