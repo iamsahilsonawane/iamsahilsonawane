@@ -4,7 +4,8 @@
 
 ## Young Noodle, Developer, Designer!
 
-- 🔭 I just launched my first course: [Become A VS Code SuperHero!][course]!
+<!-- - 🔭 I just launched my first course: [Become A VS Code SuperHero!][course]! -->
+
 - 🌱 I’m currently learning backend with Dart
 - 👯 I’m looking to contribute as much making FlutterNest the next big brother
 - 🥅 2021 Goal: Start & Contribute on ton of Open Source Projects
