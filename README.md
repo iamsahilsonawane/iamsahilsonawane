@@ -9,6 +9,9 @@
 - 🌱 I’m currently working on system level designs on a Flutter Plugin for native phone call handler!
 - ⚡️ I love to ramp up my architectural and system design understanding over designs and animation.
 - 🤔 Ask me about the process MINDSET in lieu of the process.
+- 🍻 Celebrating 3+ years in Flutter
+
+Hello world! I am Sahil, working in Flutter for more than 3 years as a team lead & developer. It's been fun working for more than 15 international clients & projects, ranging from business solutions, sports, betting, relationships, travel, recruitment, delivery, etc!
 
 ### Connect with me:
 
