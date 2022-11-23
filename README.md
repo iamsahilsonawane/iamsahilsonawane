@@ -2,14 +2,13 @@
 
 [![Twitter Follow](https://img.shields.io/twitter/follow/_sahilsonawane?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2Fiamsahilsonawane&screen_name=iamsahilsonawane)
 
-## Young Noodle, Developer, Designer!
+## Flutter 
 
 <!-- - 🔭 I just launched my first course: [Become A VS Code SuperHero!][course]! -->
 
-- 🌱 I’m currently learning backend with Dart
-- 👯 I’m looking to contribute as much making FlutterNest the next big brother
-- 🥅 2021 Goal: Start & Contribute on ton of Open Source Projects
-- ⚡ Fun fact: I actually don't know how to do anything besides hitting my fingers on my mac
+- 🌱 I’m currently working on system level designs on a Flutter Plugin for native phone call handler!
+- ⚡️ I love to ramp up my architectural and system design understanding over designs and animation.
+- 🤔 Ask me about the process MINDSET in lieu of the process.
 
 ### Connect with me:
 
