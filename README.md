@@ -1,7 +1,7 @@
 ### Hey! I am Sahil Sonawane 👋
 [![Twitter Follow](https://img.shields.io/twitter/follow/_sahilsonawane?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2Fiamsahilsonawane&screen_name=iamsahilsonawane)
 
-I'm a software developer (who uses neovim, btw) with a deep love in Flutter. My journey in technology spans beyond front-end development, where I've collaborated on diverse projects such as crafting rendering engines and working on a language interpreter. I strive to explore the intricacies of software systems.
+I'm a full-stack software developer (who uses neovim, btw). My journey in technology spans beyond front-end development, where I've collaborated on diverse projects such as crafting rendering engines and working on a language interpreter. I strive to explore the intricacies of software systems.
 
 ---
 
