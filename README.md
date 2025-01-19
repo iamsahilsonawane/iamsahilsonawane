@@ -1,50 +1,41 @@
 ### Hey! I am Sahil Sonawane 👋
-
 [![Twitter Follow](https://img.shields.io/twitter/follow/_sahilsonawane?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2Fiamsahilsonawane&screen_name=iamsahilsonawane)
 
-## Fluttering Dart 🎯
-
-<!-- - 🔭 I just launched my first course: [Become A VS Code SuperHero!][course]! -->
-
-- 🌱 I’m currently working on system level designs on a Flutter Plugin for native phone call handler!
-- ⚡️ I love to ramp up my architectural and system design understanding over designs and animation.
-- 🤔 Ask me about the process MINDSET in lieu of the process.
-- 🍻 Celebrating 3+ years in Flutter
-
-Hello world! I am Sahil, working in Flutter for more than 3 years as a team lead & developer. It's been fun working for more than 15 international clients & projects, ranging from business solutions, sports, betting, relationships, travel, recruitment, delivery, etc!
-
-### Connect with me:
-
-[<img align="left" style="margin-right: 10px" alt="_sahilsonawane | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<img align="left" alt="iamsahilsonawane | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-
-<br />
-
-### Languages and Tools:
-
-<img style="margin-right:10px" align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
-<img style="margin-right:10px" align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
-<img style="margin-right:10px" align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
-<img style="margin-right:10px" align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
-<img style="margin-right:10px" align="left" alt="GraphQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/graphql/graphql.png" />
-<img style="margin-right:10px" align="left" alt="Node.js" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />
-<img style="margin-right:10px" align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
-<img style="margin-right:10px" align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
-<img style="margin-right:10px" align="left" alt="Airtable" width="26px" src="https://github.com/iamsahilsonawane/iamsahilsonawane/blob/main/other_icons/airtable.png" />
-<img style="margin-right:10px" align="left" alt="Dart" width="26px" src="https://github.com/iamsahilsonawane/iamsahilsonawane/blob/main/other_icons/dart.png" />
-<img style="margin-right:10px" align="left" alt="Cloud Functions" width="26px" src="https://github.com/iamsahilsonawane/iamsahilsonawane/blob/main/other_icons/cloud_functions.png" />
-<img style="margin-right:10px" align="left" alt="Firestore" width="26px" src="https://github.com/iamsahilsonawane/iamsahilsonawane/blob/main/other_icons/firestore.png" />
-<img style="margin-right:10px" align="left" alt="Flutter" width="26px" src="https://github.com/iamsahilsonawane/iamsahilsonawane/blob/main/other_icons/flutter.png" />
-
-<br />
-<br />
+I'm a software developer (who uses neovim, btw) with a deep love in Flutter. My journey in technology spans beyond front-end development, where I've collaborated on diverse projects such as crafting rendering engines and working on a language interpreter. I strive to explore the intricacies of software systems.
 
 ---
 
+### 🚀 What I Do  
+**Building Custom Flutter Solutions:** I design and implement Flutter-based user interfaces that balance practicality and elegance, ensuring real-world usability.
+
+**Engineering Across the Stack:** From optimizing data pipelines to tuning API interactions, I enjoy working on the full lifecycle of applications, connecting the dots between front-end and backend.
+
+**Solving Real-World Problems:** Whether it's creating a specialized rendering engine or fine-tuning vision AI algorithms, I love turning complex challenges into functional and scalable solutions.
+
 ---
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=iamsahilsonawane&show_icons=true&theme=dark)
+### 🌟 Things I am working on
+Without naming specifics, here’s a glimpse of some of the complex and exciting projects I’ve been working on:  
+- **Previewer Renderer for a visual no-code platform:** Developing a rendering engine to preview user-generated content (using drag interfaces) in real-time like FlutterFlow. 
+- **Local on-device algorithm (with vision AI):** Crafting a specialised algorithm to run on-device (mobile devices) for real-time image processing engineered for the firearms industry.
+- **Realtime geo-tracking:**: Building a real-time geo-tracking marathon app for marathon runners to track their progress, visualise & analyze metrics realtime, and admin to monitor the event. Working on scaling geo system at scale.
+- **Cloud-based generation for white label apps:** Developing a cloud-based system to generate white-label apps for clients with custom branding, features, and configurations. This includes code-gen, on-prem/cloud build system, templating etc.
+- **Parser for a language:**: Building interpreter for a small expression (scripting) language for a no-code platform.
+- **LSP for Lua:** Rewriting language server for Lua from scratch (for learning).
 
-[course]: http://vsCodeHero.com
-[twitter]: https://twitter.com/_sahilsonawane
-[linkedin]: https://linkedin.com/in/iamsahilsonawane
+
+### 🎯 Values and Philosophy  
+- **Depth and Breadth:** I believe in mastering the tools of my trade while remaining adaptable to new technologies and methodologies.
+- **Passion for Learning:** Whether it's exploring logarithmic complexity or understanding the intricacies of a compiler, I’m always on a journey to expand my knowledge.  
+
+---
+
+### 🌱 Beyond Code  
+When I'm not coding, you might find me exploring philosophical essays & books, writing a newsletter issue, experimenting with new tech, or enjoying thought-provoking movies. 
+
+---
+
+### 🌐 Let’s Connect  
+I’m always open to meaningful conversations, collaborations, and sharing insights. Feel free to explore my repositories, drop a star, or reach out if something catches your eye!  
+- Email: [iamsahilsonawane@gmail.com](mailto:iamsahilsonawane@gmail.com)
+- X (Twitter): [_sahilsonawane](https://x.com/_sahilsonawane)
